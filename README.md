@@ -6,6 +6,7 @@
 Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela FATEC Guaratinguetá.
 Sou apaixonado por tecnologia, e possuo um grande interesse pela área de dados, buscando por mais conhecimento e crescer profissionalmente.
 Possuo um perfil no LinkedIn [Matheos Moraes] (https://www.linkedin.com/in/matheos-moraes-2ba9703a5/), atualmente em busca de uma vaga de estágio ou Júnior.
+
 [ENG] My name is Matheos Moraes, I’m 26 years old, and I’m from Guaratinguetá, São Paulo.
 
 Currently, I’m studying Systems Analysis and Development at FATEC Guaratinguetá. I’m passionate about technology and deeply interested in the data field, constantly seeking to expand my knowledge and grow professionally.
