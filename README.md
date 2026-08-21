@@ -14,9 +14,9 @@ You can find my profile on LinkedIn Matheos Moraes. I’m currently looking for 
 
  <p align="left">
       <a href="https://github.com/madeosdev?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/madeosdev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/madeosdev?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/madeosdev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
 
@@ -95,22 +95,9 @@ You can find my profile on LinkedIn Matheos Moraes. I’m currently looking for 
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=madeosdev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=madeosdev&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=madeosdev&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=madeosdev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
 
 <!--
 **madeosdev/madeosdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
